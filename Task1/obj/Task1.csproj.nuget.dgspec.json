@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidbarinov/Desktop/reps/reps/Task1/Task1.csproj": {}
+    "/Users/davidbarinov/Desktop/reps/reps1/Task1/Task1.csproj": {}
   },
   "projects": {
-    "/Users/davidbarinov/Desktop/reps/reps/Task1/Task1.csproj": {
+    "/Users/davidbarinov/Desktop/reps/reps1/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidbarinov/Desktop/reps/reps/Task1/Task1.csproj",
+        "projectUniqueName": "/Users/davidbarinov/Desktop/reps/reps1/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/Users/davidbarinov/Desktop/reps/reps/Task1/Task1.csproj",
+        "projectPath": "/Users/davidbarinov/Desktop/reps/reps1/Task1/Task1.csproj",
         "packagesPath": "/Users/davidbarinov/.nuget/packages/",
-        "outputPath": "/Users/davidbarinov/Desktop/reps/reps/Task1/obj/",
+        "outputPath": "/Users/davidbarinov/Desktop/reps/reps1/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidbarinov/.nuget/NuGet/NuGet.Config"
