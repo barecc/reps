@@ -1,0 +1,15 @@
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/bin/Debug/net6.0/Zadacha15
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/bin/Debug/net6.0/Zadacha15.deps.json
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/bin/Debug/net6.0/Zadacha15.runtimeconfig.json
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/bin/Debug/net6.0/Zadacha15.dll
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/bin/Debug/net6.0/Zadacha15.pdb
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.csproj.AssemblyReference.cache
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.AssemblyInfoInputs.cache
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.AssemblyInfo.cs
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.csproj.CoreCompileInputs.cache
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.dll
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/refint/Zadacha15.dll
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.pdb
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/Zadacha15.genruntimeconfig.cache
+/Users/davidbarinov/Desktop/reps/reps1/DZ2/Zadacha15/obj/Debug/net6.0/ref/Zadacha15.dll
